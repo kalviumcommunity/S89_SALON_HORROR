@@ -13,7 +13,10 @@ This project showcases a collection of the worst haircut disasters seen at salon
 
 ## Tech Stack: HTML, CSS, JavaScript
 
+
+
 ## Why This Project?
  Many people leave salons disappointed with their haircuts, expecting something stylish but ending up with a disaster. This project aims to provide a humorous yet relatable space where people can share and explore these experiences while learning how to avoid or fix bad haircuts.
 
 ## Creating  a ASAP  project
+
