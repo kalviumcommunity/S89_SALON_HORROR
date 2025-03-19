@@ -5,7 +5,7 @@ const mongoose=require("mongoose");
 
  app.get("/ping", (req, res)=>{
     
-    res.send("ping pong");
+    res.send("ping pong  ping pong ");
  })
 
  app.listen(8080, async()=>{
