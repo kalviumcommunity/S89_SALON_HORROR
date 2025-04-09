@@ -14,7 +14,7 @@ const router = require('./router');
 
 app.listen(port, async() => {
   try {
-    await mongoose.connect(process.env.MongoDB_URL)
+    await mongoose.connect(process.env.MongoDB_URL) 
     console.log("server connected successfully")
   } catch (error) {
     console.log(error)
