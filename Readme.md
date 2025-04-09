@@ -18,3 +18,5 @@ This project showcases a collection of the worst haircut disasters seen at salon
 ## Tech Stack: HTML, CSS, JavaSript.
 
 * render link  https://s89-salon-horror.onrender.com
+
+* cloudFare link  https://s89-salon-horror1.pages.dev/

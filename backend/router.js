@@ -10,7 +10,7 @@ const silly=require("./schema");
         return res.status(200).json(items);
     } catch (error) {
         console.error("Error fetching menu:", error);
-        return res.status(500).json({ msg: "Internal server error" });
+        return res.status(500).json({ msg: "Internal server error"});
    }
   });
 
